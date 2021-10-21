@@ -1,0 +1,1 @@
+INSERT INTO project(created_at, description, end_date, project_identifier, project_name, start_date, updated_at) VALUES(null, 'project...', null, 'test', 'test', null, null);

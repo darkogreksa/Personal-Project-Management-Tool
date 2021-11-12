@@ -1,1 +1,1 @@
-INSERT INTO project(created_at, description, end_date, project_identifier, project_name, start_date, updated_at) VALUES(null, 'project...', null, 'test', 'test', null, null);
+INSERT INTO project(created_at, description, end_date, project_identifier, project_name, start_date, updated_at) VALUES("2021-11-12", 'desc', '2021-12-12', 'test', 'Project from react', '2021-11-12', null);
